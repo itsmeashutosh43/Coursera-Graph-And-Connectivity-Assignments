@@ -74,8 +74,6 @@ for line in content:
 
 dist=djistraAlgo(adj,1)
 
-queries=[7,37,59,82,99,115,133,165,188,197]
-
 for a in answers:
 	print(dist[a])
 
