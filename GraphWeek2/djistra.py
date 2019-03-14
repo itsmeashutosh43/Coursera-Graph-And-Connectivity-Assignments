@@ -45,19 +45,6 @@ def djistraAlgo(adj,source):
 	return diffDist
 		
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 content = open('djistra.txt', 'r').readlines()
 
 adj=defaultdict(dict)
